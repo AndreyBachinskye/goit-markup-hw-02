@@ -19,7 +19,7 @@ body{
 }
 
 .header{
-    width: 11440px;
+    width: 1440px;
     height: 70px;
 }
 
@@ -110,10 +110,12 @@ body{
     font-size: 16px;
     letter-spacing: 0.04em;
     font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
 }
 .button-order:hover, .button-order:focus{
     background-color: var(--color-hover);
     cursor: pointer;
+    color: #404BBF;
 }
 
 .tech {
@@ -260,7 +262,7 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(--color-web-plus-button);
+    color: var(--color-cloud);
 }
 
 .button-list:hover, .button-list:focus{
