@@ -262,7 +262,8 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(--color-cloud);
+    background-color: var(--color-cloud);
+    color: var(--color-web-plus-button);
 }
 
 .button-list:hover, .button-list:focus{
